@@ -1,0 +1,9 @@
+[package]
+name = "simplehttp"
+version = "0.1.0"
+authors = ["valarauca <codylaeder@gmail.com>"]
+
+[dependencies]
+mio = "0.6.2"
+httparse = "1.2.1"
+rand = "0.3"
